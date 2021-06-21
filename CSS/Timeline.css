@@ -1,4 +1,9 @@
 h2 
 {
-	background-color: #E378B7
+	background-color: #E378B7;
 }	
+
+img
+{
+	border: 5px solid #111111;
+}

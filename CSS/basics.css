@@ -3,8 +3,9 @@ body
 {
 	/*I set the background colour.*/
 	background-color: #F5CEF0;
-
+	font-family: "Courier New", monospace;
 }
+
 nav ul 
 {
 	list-style-type: none;
@@ -28,3 +29,5 @@ nav ul li a
 	text-decoration:none;
 	color:#111111
 }
+
+
