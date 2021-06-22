@@ -1,9 +1,58 @@
 h2 
 {
 	background-color: #F26F90;
+	border: 2px solid #111111;
+	border-radius: 10px;
+	text-align: center;
 }
 
 h3
 {
-	background-color: #EB81AF
+	background-color: #EB81AF;
+	border: 1px dotted #111111;
+	border-radius: 5px;
+	text-align: center;
 }
+
+img.books
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ ul li.poem
+{
+	list-style-type: none;
+	text-align:center;
+}
+
+ ul img.music
+{
+	list-style-type: none;
+	display: inline;
+	padding-right:40px;
+	padding-left:40px;
+	height: 200px;
+	width: 200px;
+	
+}
+
+ul img.music:hover
+{
+	list-style-type: none;
+	display: inline;
+	padding-right:40px;
+	padding-left:40px;
+	height: 215px;
+	width: 215px;
+	
+}
+
+
+p 
+{
+	text-align: center;
+}
+
+	
