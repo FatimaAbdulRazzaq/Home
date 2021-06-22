@@ -31,10 +31,9 @@ img.books
 {
 	list-style-type: none;
 	display: inline;
-	padding-right:40px;
-	padding-left:40px;
-	height: 200px;
-	width: 200px;
+	border: 3px solid #111111;
+	float: left;
+	
 	
 }
 
@@ -42,8 +41,6 @@ ul img.music:hover
 {
 	list-style-type: none;
 	display: inline;
-	padding-right:40px;
-	padding-left:40px;
 	height: 215px;
 	width: 215px;
 	
