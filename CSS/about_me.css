@@ -1,0 +1,14 @@
+/*I make the heading a different colour, give it a border and center it.*/
+h2 
+{
+	background-color: #F26F90;
+	border: 2px solid #111111;
+	border-radius: 10px;
+	text-align: center;
+}	
+
+/*I display the images in the same line.*/
+img.personality
+{
+	display: inline;
+}

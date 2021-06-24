@@ -1,3 +1,4 @@
+/*I make the heading a different colour, give it a border and center it.*/
 h2 
 {
 	background-color: #F26F90;
@@ -6,6 +7,7 @@ h2
 	text-align: center;
 }	
 
+/*I give my images a border and center them.*/
 img
 {
 	border: 5px solid #111111;
@@ -14,11 +16,13 @@ img
 	margin-right: auto;
 }
 
+/*I center my paragraph.*/
 p
 {
 	text-align: center;
 }
 
+/*I give the smaller heading a colour, border and I center them.*/
 h3
 {
 	background-color: #EB81AF;

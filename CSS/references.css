@@ -1,0 +1,13 @@
+/*I adjust the font size and set a width for my table.*/
+table
+{
+	font-size:70%;
+	width: 100%
+}
+/*I give my table cells a border and adjust the padding, as well as align the text.*/
+th, td
+{
+	border: 3px solid #000000;
+	padding: 8px;
+	text-align: left;
+}

@@ -1,0 +1,39 @@
+/*I make the heading a different colour and give it a border.*/
+h2
+{
+	background-color: #F26F90;
+	border: 2px solid #111111;
+	border-radius: 10px;
+}
+
+/*I make the heading a different colour and give it a border.*/
+h3
+{
+	background-color: #EB81AF;
+	border: 2px dotted #111111;
+	border-radius: 10px;
+}
+
+/*I make the heading a different colour, give it a border and center it.*/
+h4
+{
+	background-color: #EB81AF;
+	border: 1px dotted #111111;
+	border-radius: 5px;
+	text-align:center;
+}
+
+/*I give the images a border and center them.*/
+img.cheese
+{
+	display: block;
+	border: 3px solid #111111;
+	border-radius: 5px;
+	margin-left: auto;
+	margin-right: auto;
+}
+/*I center the paragraphs that describe cheese.*/
+p.cheese_desc
+{
+	text-align: center;
+}

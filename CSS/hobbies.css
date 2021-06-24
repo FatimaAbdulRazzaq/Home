@@ -1,3 +1,4 @@
+/*I make the heading a different colour, give it a border and center it.*/
 h2 
 {
 	background-color: #F26F90;
@@ -6,6 +7,7 @@ h2
 	text-align: center;
 }
 
+/*I make the heading a different colour, give it a border and center it.*/
 h3
 {
 	background-color: #EB81AF;
@@ -14,6 +16,7 @@ h3
 	text-align: center;
 }
 
+/*I center the book images.*/
 img.books
 {
   display: block;
@@ -21,23 +24,24 @@ img.books
   margin-right: auto;
 }
 
+/*I remove the points and center my poems.*/
  ul li.poem
 {
 	list-style-type: none;
 	text-align:center;
 }
 
- ul img.music
+/*I make the images go to the left of text and display them in the same line, removing bullet points.*/
+ img.music
 {
 	list-style-type: none;
 	display: inline;
 	border: 3px solid #111111;
 	float: left;
-	
-	
 }
 
-ul img.music:hover
+/*I make it so the images get larger when the mouse hovers over them*/
+img.music:hover
 {
 	list-style-type: none;
 	display: inline;
@@ -46,7 +50,7 @@ ul img.music:hover
 	
 }
 
-
+/*I align the paragraphs in the center.*/
 p 
 {
 	text-align: center;
